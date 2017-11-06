@@ -1,7 +1,9 @@
 # architecture-fe
 
 a boilerplate for FE architecture
+
 一个**前端工程化架构**样板
+
 # command
 
 ### dev
@@ -22,13 +24,13 @@ open localhost:9000
 - vue/react [ 框架 ]
 
 # file structure
-
+```
 |- src
 |- |- app
 |- |- components 
 |- |- global
 |- |- |- reset.css
-
+```
 # links
 
 [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin)
