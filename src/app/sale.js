@@ -1,6 +1,7 @@
-import './sale.less'
-let a = "1";
-console.log(a)
+import './sale.less';
+import React from 'react';
+import ReactDom from 'react-dom';
+import { SaleDetail } from '../components/sale/detail'
 
 const node = document.getElementById('root');
-node.innerHTML = 'hello , world'
+ReactDom.render(<SaleDetail />, node);

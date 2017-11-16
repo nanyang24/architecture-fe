@@ -2,8 +2,9 @@
 
 a boilerplate for FE architecture
 
-一个**前端工程化架构**样板
+一个**前端工程化脚手架**样板
 
+> 个别文件内有注释
 # command
 
 ### dev

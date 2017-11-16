@@ -1,1 +1,2 @@
-console.log('1')
+const b = "b";
+console.log(b + 'c' + 'd');
